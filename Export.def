@@ -1,0 +1,6 @@
+LIBRARY
+EXPORTS
+   find_mycard
+   find_anothercard
+   find_button
+   find_alert
